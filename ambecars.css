@@ -1,0 +1,37 @@
+h1{
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+background-image: url(epilepsy.gif);
+ text-decoration-color: #c6f75e;
+  font-size: 60px;
+
+}
+h2{
+  text-align: center;
+  color: #f412da;
+  text-decoration: underline;
+  background-image: url(epilepsy.gif);
+
+  text-decoration-color: purple;
+  font-size: 45px;
+
+}
+h1:hover{
+  color: pink;
+  background-color: blue
+}
+hr{
+  color: red;
+  padding: 20px;
+
+}
+body{
+  background-image: url(epilepsy.gif);
+
+}
+img{
+  width: 300px;
+  height: 600px;
+
+}
